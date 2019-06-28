@@ -1,0 +1,53 @@
+.esas{
+    position: relative;
+    height: 700px;
+    
+    width: 100%;
+}
+
+.yaz h1 .yaz h2 .yaz h5 .yaz button{
+    display: inline-block;
+   
+
+  
+}
+.esas img{
+    width: 100%;
+   height: 100%;
+    
+}
+
+.yaz{
+    line-height: 5em;
+    position: absolute;
+   
+    z-index: 1;
+  
+    float:left;
+    width: 40%;
+  
+    color:rgb(244, 244, 250);
+
+   top: 150px;
+   left: 400px;
+}
+span{
+   margin-top:30px;
+    font-size: 50px;
+    padding: 40px;
+    height: 100px;
+
+}
+button{
+background-color: orange;
+padding: 15px;
+border: none;
+font-weight: bold;
+color: white;
+}
+.yaz h5{
+    font-size: 30px;
+}
+.yaz h1{
+    font-size: 70px;
+}
